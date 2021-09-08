@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: co.com.exam.multiproject_library.MultiprojectLibraryApplicat
+ ion
+

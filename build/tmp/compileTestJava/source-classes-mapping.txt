@@ -1,0 +1,2 @@
+co/com/exam/multiproject_library/MultiprojectLibraryApplicationTests.java
+ co.com.exam.multiproject_library.MultiprojectLibraryApplicationTests
